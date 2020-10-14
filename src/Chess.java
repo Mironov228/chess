@@ -47,7 +47,7 @@ public class Chess extends JFrame
 
     private void initFrame()
     {
-        setTitle("Chess make by Gleb");
+        setTitle("Chess");
         setVisible(true);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setResizable(false);
