@@ -12,14 +12,6 @@ public class Coord {
     }
 
     @Override
-    public String toString() {
-        return "Coord{" +
-                "x=" + x +
-                ", y=" + y +
-                '}';
-    }
-
-    @Override
     public boolean equals(Object o) {
         if (o instanceof Coord)
         {
